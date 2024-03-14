@@ -19,9 +19,9 @@ I am a passionate learner with a penchant for solving problems in unique ways, s
 - 💻 Passionate Web Developer
 - 🤖 AIML Enthusiast
 
-## GitHub Stats
+<!--## GitHub Stats
 
-[![Madhusudhana Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koya-Madhusudhana-Rao&show_icons=false&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/Koya-Madhusudhana-Rao)
+[![Madhusudhana Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koya-Madhusudhana-Rao&show_icons=false&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/Koya-Madhusudhana-Rao)-->
 
 
 ## Connect with Me
