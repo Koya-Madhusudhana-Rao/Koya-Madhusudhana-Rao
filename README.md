@@ -35,4 +35,7 @@ I am a passionate learner with a penchant for solving problems in unique ways, s
 
 
 
-Let's code and innovate together! 🚀
+Let's code and innovate together! 🚀 <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Koya-Madhusudhana-Rao&label=Profile%20views&color=0e75b6&style=flat" alt="Koya-Madhusudhana-Rao" /> 
+</p>
+
