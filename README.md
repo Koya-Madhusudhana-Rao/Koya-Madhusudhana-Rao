@@ -27,7 +27,7 @@ I am a passionate learner with a penchant for solving problems in unique ways, s
 ## Connect with Me
 
 - 📧 Feel free to reach out: madhusudhanaraokoya@gmail.com
-- 🌐 Visit my personal website: [Madhusudhana-Rao](https://github.com/Koya-Madhusudhana-Rao)
+- 🌐 Visit my personal website: [Koya-Madhusudhana-Rao](https://madhusudhanaraokoya.vercel.app/)
 
 <a href="https://www.linkedin.com/in/koya-madhusudhana-rao-7a2974233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhusudhana Rao" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/madhusudhanarao8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madhusudhanarao8" height="30" width="40" /></a>
