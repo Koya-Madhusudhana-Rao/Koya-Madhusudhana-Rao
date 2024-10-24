@@ -1,7 +1,7 @@
 <!--# Hi there! 👋 I'm Madhusudhana Rao -->
 <!--# Hi there! 👋 I'm Madhusudhana Rao -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=00FF00&lines=Hello+all+👋👋;I+am+Madhusudhana+Rao;AI+ML+Enthusiast;Passionate+Web+Developer;Java+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=00FF00&lines=Hello+all+👋👋+Madhu+Here+.+.+.)](https://git.io/typing-svg)
 
 
 
