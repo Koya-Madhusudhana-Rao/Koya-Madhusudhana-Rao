@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a passionate final-year CS Under grad at VIT-AP University. I enjoy solving problems creatively and thrive on consistency and innovatio
+I am a passionate final-year CS Under grad at VIT-AP University. I enjoy solving problems creatively and thrive on consistency and innovation.
 
 -  Actively working on projects involving Gen AI, Sign Language Translation, and real-time auction systems.
 -  Successfully completed multiple projects, including **AuctionSphereX** (a MERN-based auction system) and a **Two-Way Sign Language Translator**.
